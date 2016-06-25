@@ -1,0 +1,13 @@
+*.dll
+*.exe
+assets
+database
+filters
+cheats
+info
+playlists
+shaders
+system
+*.lpl
+retroarch.default.cfg
+autoconfig
